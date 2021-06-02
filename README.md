@@ -14,7 +14,7 @@ In this analysis we are looking at whether those reviewers who have paid vine ac
 
 To look at the analysis results refer to the below screenshot of the calculations and to the two ipynb files in this repository.
 
-![calculations](https://github.com/TamaraGR/Amazon_Vine_Analysis/blob/main/calculations.png)
+![calculations](https://github.com/TamaraGR/Amazon_Analysis/blob/main/Resources/Images/calculations.png)
 
 - [x] How many Vine reviews and non-Vine reviews were there?
 In our particular category of goods (digital music) we had zero (0) paid Vine reviews. And we had a total of 4532 reviews from unpaid Vine accounts. 
@@ -35,7 +35,7 @@ It would also be interesting to compare reviews from recent Vine paid customers 
 
 The screenshots below help provide more understanding of what data we were working with. 
 
-![image1](https://github.com/TamaraGR/Amazon_Vine_Analysis/blob/main/customers_table.png)
-![image2](https://github.com/TamaraGR/Amazon_Vine_Analysis/blob/main/products_table.png)
-![image3](https://github.com/TamaraGR/Amazon_Vine_Analysis/blob/main/review_id_table.png)
-![image4](https://github.com/TamaraGR/Amazon_Vine_Analysis/blob/main/vine_table.png)
+![image1](https://github.com/TamaraGR/Amazon_Analysis/blob/main/Resources/Images/customers_table.png)
+![image2](https://github.com/TamaraGR/Amazon_Analysis/blob/main/Resources/Images/products_table.png)
+![image3](https://github.com/TamaraGR/Amazon_Analysis/blob/main/Resources/Images/review_id_table.png)
+![image4](https://github.com/TamaraGR/Amazon_Analysis/blob/main/Resources/Images/vine_table.png)
